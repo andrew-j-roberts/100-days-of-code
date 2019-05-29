@@ -34,4 +34,5 @@ Machine learning fundamentals
 
 **Link(s) to resources/work**:   
 - https://en.wikipedia.org/wiki/Artificial_intelligence
+- [Notes I took on the Wiki article](notes/r1/d1.md)
    
