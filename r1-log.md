@@ -18,7 +18,7 @@ N/A
     
 # START!
 
-### [Day 1: May 29, Wednesday](#r1d1)
+### Day 1: May 29, Wednesday {#r1d1}
 
 **Today's topic**:  
 Machine learning fundamentals
