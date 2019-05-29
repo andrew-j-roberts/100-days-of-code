@@ -14,14 +14,11 @@ Project setup
 - README.md — TOC, rules, and topics
 
 **Link(s) to resources/work**:   
-N/A
-`  `   
-`  `   
-`  `   
-`  `   
+N/A      
+    
 # START!
 
-### Day 1: May 29, Thursday
+### Day 1: May 29, Wednesday
 
 **Today's topic**:  
 Machine learning fundamentals
