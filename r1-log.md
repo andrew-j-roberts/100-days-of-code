@@ -18,7 +18,7 @@ N/A
     
 # START!
 
-<h3 id="r1d1">Day 1: May 29, Wednesday</h4>
+<h3 id="r1d1">Day 1: May 29, Wednesday</h3>
 
 **Today's topic**:  
 Machine learning fundamentals
@@ -35,4 +35,23 @@ Machine learning fundamentals
 **Link(s) to resources/work**:   
 - https://en.wikipedia.org/wiki/Artificial_intelligence
 - [Notes I took on the Wiki article](notes/r1/d1.md)
+
+<h3 id="r1d2">Day 2: May 30, Thursday</h3>
+
+**Today's topic**:  
+Machine learning fundamentals
+
+**Notes**:     
+- Decided I wanted to continue learning about some machine learning fundamentals before getting my hands dirty with code
+- Out of the machine learning courses I found, it seemed like Andrew Ng's Stanford University Coursera course was best
+- It's free!
+
+**What I completed**:   
+- First week of lectures up through the first quiz
+- Learned about supervised and unsupervised ML, as well as some of the terminology that goes along with them  
+- For supervised learning I covered the differences between real-value output and classification problems
+- For unsupervised learning I covered the differences between clustering and non-clustering problems
+
+**Link(s) to resources/work**:   
+- https://www.coursera.org/learn/machine-learning
    
